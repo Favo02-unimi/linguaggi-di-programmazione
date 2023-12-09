@@ -1,3 +1,6 @@
 [submodule "OCaML"]
 	path = OCaML
 	url = git@github.com:Favo02/lp-ocaml.git
+[submodule "Erlang"]
+	path = Erlang
+	url = git@github.com:Favo02/lp-erlang.git
