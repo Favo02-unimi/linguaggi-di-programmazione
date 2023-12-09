@@ -1,0 +1,3 @@
+[submodule "OCaML"]
+	path = OCaML
+	url = git@github.com:Favo02/lp-ocaml.git
