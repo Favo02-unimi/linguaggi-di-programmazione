@@ -4,3 +4,6 @@
 [submodule "Erlang"]
 	path = Erlang
 	url = git@github.com:Favo02/lp-erlang.git
+[submodule "Scala"]
+	path = Scala
+	url = git@github.com:Favo02/lp-scala.git
